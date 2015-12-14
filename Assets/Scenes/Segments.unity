@@ -4362,6 +4362,26 @@ Prefab:
       propertyPath: DeathText
       value: 
       objectReference: {fileID: 11169237}
+    - target: {fileID: 8254136, guid: 7247f2f4d039f4d80899eb82275f865e, type: 2}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300001, guid: 8a9f733982bdb4d1d81f6ff2ec019dc5,
+        type: 2}
+    - target: {fileID: 8269636, guid: 7247f2f4d039f4d80899eb82275f865e, type: 2}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300001, guid: 985188ce918f14e30927485457e9b58f,
+        type: 2}
+    - target: {fileID: 8272442, guid: 7247f2f4d039f4d80899eb82275f865e, type: 2}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300001, guid: 985188ce918f14e30927485457e9b58f,
+        type: 2}
+    - target: {fileID: 8289270, guid: 7247f2f4d039f4d80899eb82275f865e, type: 2}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300001, guid: cb354070fbf474559bcad7e377e9f0dd,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7247f2f4d039f4d80899eb82275f865e, type: 2}
   m_IsPrefabParent: 0
